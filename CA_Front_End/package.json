@@ -1,0 +1,23 @@
+{
+  "name": "ca_front_end",
+  "version": "1.0.0",
+  "description": "A react web app which contains information on the CA18DET wiring system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuntingtonJ/CA18DET_Wiring_HSJ.git"
+  },
+  "keywords": [
+    "CA18DET",
+    "wiring"
+  ],
+  "author": "HSJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuntingtonJ/CA18DET_Wiring_HSJ/issues"
+  },
+  "homepage": "https://github.com/HuntingtonJ/CA18DET_Wiring_HSJ#readme"
+}
